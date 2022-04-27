@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Puhan-Zhou
-- 👀 I’m interested in embedded software development
-- 🌱 I’m currently learning linux-kernel and rust
+- 👀 I’m interested in embedded software development (bottom-layer) with c/rust and rust-for-linux
+- 🌱 I’m currently learning linux-kernel (mainly module development and performance optimization) and rust
 - 💞️ I’m looking to collaborate on nothing now
 - 📫 You can send email to puh4n.zhou@gmail.com(check per week) or puhanzhou@outlook.com(check everyday)
 
